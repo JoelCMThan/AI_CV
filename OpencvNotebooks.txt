@@ -1,0 +1,6 @@
+
+https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/1-Fundamentals.ipynb
+
+https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/2-Image_stats_and_image_processing.ipynb
+
+https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/3-Features.ipynb
